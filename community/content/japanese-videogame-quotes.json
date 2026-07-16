@@ -586,5 +586,12 @@
   "english": "This is the beginning of the adventure!",
   "game": "Dragon Quest XI",
   "character": "Hero / party lines"
-  }
+  },
+  {
+  "japanese": "生きるってのは、戦うってことだ",
+  "romaji": "Ikiru tte no wa, tatakau tte koto da",
+  "english": "To live is to fight.",
+  "game": "Yakuza: Like a Dragon",
+  "character": "Ichiban Kasuga"
+}
 ]
